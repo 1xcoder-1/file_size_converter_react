@@ -4,7 +4,6 @@
 
 File Size Converter is a web application that allows users to easily convert file sizes between different units of measurement. It provides a simple, intuitive interface for converting file sizes from bytes to larger units like kilobytes, megabytes, gigabytes, and beyond.
 
-![File Size Converter Screenshot](https://source.unsplash.com/random/800x400?computer+file)
 
 ## Features
 
@@ -14,9 +13,6 @@ File Size Converter is a web application that allows users to easily convert fil
 - Error handling for invalid inputs
 - Supports a wide range of file sizes from bytes to yottabytes
 
-## Live Demo
-
-You can try out the live version of the File Size Converter here: [https://curious-kashata-5b2219.netlify.app](https://curious-kashata-5b2219.netlify.app)
 
 ## Technologies Used
 
